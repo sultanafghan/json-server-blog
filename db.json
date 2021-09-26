@@ -1,0 +1,14 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "post title 1",
+      "content": "some content 1"
+    },
+    {
+      "title": "Y",
+      "content": "G",
+      "id": 2
+    }
+  ]
+}
